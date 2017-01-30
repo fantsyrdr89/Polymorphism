@@ -10,6 +10,6 @@ abstract class Pet {
     public void setName(String name){
     }
 
-    abstract public void speak();
+    abstract public String speak();
 
 }
