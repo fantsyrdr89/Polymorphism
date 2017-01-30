@@ -4,8 +4,16 @@ package io.zipcoder.pets;
  * Created by alexandraarmstrong on 1/30/17.
  */
 public class Fox extends Pet{
+
     @Override
     public String speak() {
-        return null;
+        int random = (int) (Math.ceil(Math.random() * 4));
+        switch(random){
+            case 1: return "Gering-ding-ding-ding-dingeringeding!";
+            case 2: return "Wa-pa-pa-pa-pa-pa-pow!";
+            case 3: return "Hatee-hatee-hatee-ho!";
+            case 4: return "Joff-tchoff-tchoffo-tchoffo-tchoff!";
+            default: return "How did you even get here?";
+        }
     }
 }
