@@ -2,14 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="00871f13-6212-42d7-8a1e-edf64ed631a8" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/compiler.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__junit_junit_4_12.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_hamcrest_hamcrest_core_1_3.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pom.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/io/zipcoder/pets/HelloUser.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/io/zipcoder/pets/Pet.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/java/io/zipcoder/pets/HelloUserTest.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/java/io/zipcoder/pets/PetTest.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/io/zipcoder/pets/Pet.java" afterPath="$PROJECT_DIR$/src/main/java/io/zipcoder/pets/Pet.java" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -25,10 +18,10 @@
   </component>
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FileEditorManager">
-    <splitter split-orientation="horizontal" split-proportion="0.44274342">
+    <splitter split-orientation="horizontal" split-proportion="0.4451929">
       <split-first>
         <leaf>
-          <file leaf-file-name="HelloUser.java" pinned="false" current-in-tab="true">
+          <file leaf-file-name="HelloUser.java" pinned="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/src/main/java/io/zipcoder/pets/HelloUser.java">
               <provider selected="true" editor-type-id="text-editor">
                 <state relative-caret-position="391">
@@ -41,12 +34,15 @@
               </provider>
             </entry>
           </file>
-          <file leaf-file-name="Pet.java" pinned="false" current-in-tab="false">
+          <file leaf-file-name="Pet.java" pinned="false" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/src/main/java/io/zipcoder/pets/Pet.java">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="51">
-                  <caret line="3" column="0" lean-forward="false" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
-                  <folding />
+                <state relative-caret-position="102">
+                  <caret line="6" column="20" lean-forward="false" selection-start-line="6" selection-start-column="20" selection-end-line="6" selection-end-column="20" />
+                  <folding>
+                    <element signature="e#101#102#0" expanded="true" />
+                    <element signature="e#128#129#0" expanded="true" />
+                  </folding>
                 </state>
               </provider>
             </entry>
@@ -99,9 +95,9 @@
       <list>
         <option value="$PROJECT_DIR$/pom.xml" />
         <option value="$PROJECT_DIR$/src/test/java/io/zipcoder/pets/PetTest.java" />
-        <option value="$PROJECT_DIR$/src/main/java/io/zipcoder/pets/Pet.java" />
         <option value="$PROJECT_DIR$/src/test/java/io/zipcoder/pets/HelloUserTest.java" />
         <option value="$PROJECT_DIR$/src/main/java/io/zipcoder/pets/HelloUser.java" />
+        <option value="$PROJECT_DIR$/src/main/java/io/zipcoder/pets/Pet.java" />
       </list>
     </option>
   </component>
@@ -642,12 +638,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1485794390431</updated>
-      <workItem from="1485794391835" duration="3833000" />
+      <workItem from="1485794391835" duration="4958000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="3833000" />
+    <option name="totallyTimeSpent" value="4958000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-344" y="-1058" width="1919" height="1058" extended-state="6" />
@@ -723,14 +719,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/io/zipcoder/pets/Pet.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="51">
-          <caret line="3" column="0" lean-forward="false" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/io/zipcoder/pets/HelloUser.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="391">
@@ -738,6 +726,17 @@
           <folding>
             <element signature="imports" expanded="true" />
             <element signature="e#317#333#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/io/zipcoder/pets/Pet.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="20" lean-forward="false" selection-start-line="6" selection-start-column="20" selection-end-line="6" selection-end-column="20" />
+          <folding>
+            <element signature="e#101#102#0" expanded="true" />
+            <element signature="e#128#129#0" expanded="true" />
           </folding>
         </state>
       </provider>
